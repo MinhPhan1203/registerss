@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/MinhPhan1203",
+
+  "owner": {
+    "username": "MinhPhan1203",
+    "email": "phan48788@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "minhphan", 
+       "value": "75.2.60.5"
+     }
+  },
+
+  "proxied": false
+}
